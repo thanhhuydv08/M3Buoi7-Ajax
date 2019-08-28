@@ -1,6 +1,7 @@
 - bất đồng bộ để lấy dữ liệu từ ddataa thông qua javascrip và html ko phải là ngôn ngữ
 - suwe dụng kết hợp xmlhttprequest (lấy dữ liệu từ server)- javascrip- html dom để hiển thị dữ liệu
 - hoaat động : dựa vào sự kiện -> tạo ra đối tượng xmlhttprequest-> gửi  lên server -> trang web sử lý và gửi data về thông qua javascrip
--
+- nếu dùng GET thì cho phép truyền tham số với url web
+- nếu dùng POST thì tách ra truyền trong phần send
 
 - 
